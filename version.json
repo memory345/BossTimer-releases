@@ -1,5 +1,6 @@
 {
-  "version": "1.5.1",
-  "download": "https://github.com/memory345/BossTimer-releases/releases/latest/download/BossTimer.exe",
-  "notes": "ซ่อนไฟล์สำรอง .bak ไม่ให้ดูเหมือนไฟล์ซ้ำในโฟลเดอร์"
+  "version": "1.6",
+  "download": "https://github.com/memory345/BossTimer-releases/releases/download/v1.6/BossTimer.exe",
+  "sha256": "a85f34ddf676a7c013e20a67d19d1fa19ffb7e37f19294cbb9cf4f9092b17dba",
+  "notes": "อัปเดตคลิกเดียว (ปุ่ม อัปเดตเลย) • แก้หน้าต่างล้น/ปุ่มหายในจอที่ตั้ง Scale 125-150%"
 }
