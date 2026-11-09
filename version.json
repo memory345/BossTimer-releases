@@ -1,6 +1,6 @@
 {
-  "version": "1.6",
-  "download": "https://github.com/memory345/BossTimer-releases/releases/download/v1.6/BossTimer.exe",
-  "sha256": "a85f34ddf676a7c013e20a67d19d1fa19ffb7e37f19294cbb9cf4f9092b17dba",
-  "notes": "อัปเดตคลิกเดียว (ปุ่ม อัปเดตเลย) • แก้หน้าต่างล้น/ปุ่มหายในจอที่ตั้ง Scale 125-150%"
+  "version": "1.6.1",
+  "download": "https://github.com/memory345/BossTimer-releases/releases/download/v1.6.1/BossTimer.exe",
+  "sha256": "8045b232aca2fd9910b11a0a70e4160b41c63b7e72c4e0a8136caf82b6101f39",
+  "notes": "ปรับปรุงหน้าตั้งค่า (ปุ่มเช็กเวอร์ชันใหม่) • ลบตัวเลือกที่ไม่ใช้ • โปรแกรมเล็กลง"
 }
