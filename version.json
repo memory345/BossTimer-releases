@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.5.1",
   "download": "https://github.com/memory345/BossTimer-releases/releases/latest/download/BossTimer.exe",
-  "notes": "คู่มือมาพร้อมอัปเดต (ปุ่ม 📖 คู่มือ) • แก้ไอคอน taskbar เป็นรูป Sixer"
+  "notes": "ซ่อนไฟล์สำรอง .bak ไม่ให้ดูเหมือนไฟล์ซ้ำในโฟลเดอร์"
 }
